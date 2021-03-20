@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": "id-1",
+      "text": "Выучить основы React",
+      "completed": true
+    },
+    {
+      "id": "id-2",
+      "text": "Разобраться с React Router",
+      "completed": false
+    },
+    {
+      "id": "id-3",
+      "text": "Привыкнуть к Redux",
+      "completed": true
+    },
+    {
+      "id": "id-4",
+      "text": "Попробовать React Hooks",
+      "completed": false
+    },
+    {
+      "text": "Learn English",
+      "completed": false,
+      "id": "fQiDzTX"
+    },
+    {
+      "text": "Find my first IT-job",
+      "completed": false,
+      "id": "YAk70hk"
+    },
+    {
+      "text": "Досмотреть этот вебинар и приступить к выполнению дз-3",
+      "completed": false,
+      "id": "OaDRDca"
+    }
+  ]
+}
